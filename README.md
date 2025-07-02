@@ -19,3 +19,7 @@ Examples of things to ask Claude:
 2. TODO: add instructions how to setup google cloud project / improve auth so this is not needed (possible ?)
 3. Restart Claude Desktop
 4. You can now try with a simple command like `Give me a list of all my events this week`
+
+### Certification
+
+Certified by [mcp review](https://mcphub.com/mcp-servers/eliasuran/mcp_server_google_calendar)
