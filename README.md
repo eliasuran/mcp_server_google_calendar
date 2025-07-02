@@ -15,10 +15,20 @@ Examples of things to ask Claude:
 
 ### Installation
 
+#### MacOS
+
 1. Run `npx mcp-server-google-calendar init`
 2. TODO: add instructions how to setup google cloud project / improve auth so this is not needed (possible ?)
 3. Restart Claude Desktop
 4. You can now try with a simple command like `Give me a list of all my events this week`
+
+#### Windows
+
+Coming soon...
+
+### Linux
+
+Coming soon...
 
 ### Certification
 
