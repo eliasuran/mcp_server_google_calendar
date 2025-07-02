@@ -26,7 +26,7 @@ Examples of things to ask Claude:
 
 Coming soon...
 
-### Linux
+#### Linux
 
 Coming soon...
 
